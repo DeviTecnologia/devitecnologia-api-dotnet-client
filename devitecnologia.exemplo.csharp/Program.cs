@@ -1,7 +1,7 @@
 ﻿using devitecnologia.api.client;
 using System;
 
-namespace devitecnologia.exemplo
+namespace devitecnologia.exemplo.csharp
 {
     class Program
     {
